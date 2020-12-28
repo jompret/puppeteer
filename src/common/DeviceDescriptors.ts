@@ -939,6 +939,19 @@ const devices: Device[] = [
     },
   },
   {
+    name: 'Mi10T',
+    userAgent:
+      'Mozilla/5.0 (Linux; U; Android 10.0.0; ru-ru; MI 10T Pro Build/QKQ1.200419.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3765.0 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.6.6-gn',
+    viewport: {
+      width: 411,
+      height: 823,
+      deviceScaleFactor: 3.5,
+      isMobile: true,
+      hasTouch: true,
+      isLandscape: false,
+    },
+  },
+  {
     name: 'Pixel 2 XL landscape',
     userAgent:
       'Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3765.0 Mobile Safari/537.36',
